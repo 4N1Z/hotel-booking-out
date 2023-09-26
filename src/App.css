@@ -1,0 +1,183 @@
+
+.a-4-1,
+.a-4-1 * {
+  box-sizing: border-box;
+}
+.a-4-1 {
+  background: #ffffff;
+  width: 595px;
+  height: 842px;
+  position: relative;
+  overflow: hidden;
+}
+.union {
+  position: absolute;
+  left: 18px;
+  top: 24px;
+  overflow: visible;
+}
+.hotel-booking-summary {
+  color: #000000;
+  text-align: left;
+  font: 400 26px "Manjari", sans-serif;
+  position: absolute;
+  left: calc(50% - 139.5px);
+  top: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-1552 {
+  position: absolute;
+  inset: 0;
+}
+.sundar-pichai {
+  color: #000000;
+  text-align: left;
+  font: 400 22px "Manjari", sans-serif;
+  position: absolute;
+  left: 405px;
+  top: 174px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ceo-google {
+  color: #9c9595;
+  text-align: left;
+  font: 400 18px "Manjari", sans-serif;
+  position: absolute;
+  left: 405px;
+  top: 195px;
+  width: 123px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.name {
+  color: #000000;
+  text-align: left;
+  font: 400 18px "Manjari", sans-serif;
+  position: absolute;
+  left: 61px;
+  top: 355px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.room {
+  color: #000000;
+  text-align: left;
+  font: 400 18px "Manjari", sans-serif;
+  position: absolute;
+  left: 268px;
+  top: 355px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.date {
+  color: #000000;
+  text-align: left;
+  font: 400 18px "Manjari", sans-serif;
+  position: absolute;
+  left: 385px;
+  top: 355px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.amount {
+  color: #000000;
+  text-align: left;
+  font: 400 18px "Manjari", sans-serif;
+  position: absolute;
+  left: 468px;
+  top: 355px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vector {
+  position: absolute;
+  left: 51px;
+  top: 188px;
+  overflow: visible;
+}
+.line-3 {
+  border-style: solid;
+  border-color: #d7e2f9;
+  border-width: 1px 0 0 0;
+  width: 284px;
+  height: 0px;
+  position: absolute;
+  left: 242px;
+  top: 348px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.line-6 {
+  border-style: solid;
+  border-color: #d7e2f9;
+  border-width: 1px 0 0 0;
+  width: 284px;
+  height: 0px;
+  position: absolute;
+  left: 357px;
+  top: 348px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.line-4 {
+  border-style: solid;
+  border-color: #d7e2f9;
+  border-width: 1px 0 0 0;
+  width: 284px;
+  height: 0px;
+  position: absolute;
+  left: 457px;
+  top: 348px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.framePpty {
+  display: flex;
+  flex-direction: column;
+
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+
+}
+.nameContainer{
+
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 58px;
+  top: 404px;
+
+}
+.nameDetail {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+
+}
+.deluxe {
+
+  left: 278px;
+  top: 404px;
+}
+.dateDetails{
+
+  left: 370px;
+  top: 404px;
+}
+.amountDetails {
+
+  left: 480px;
+  top: 404px;
+}
